@@ -1,13 +1,13 @@
 {
   "name": "version-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "release": "standard-version && git push — follow-tags origin master && npm publish"
+    "release": "standard-version && git push — follow-tags origin main && npm publish"
   },
   "private": true,
   "dependencies": {
