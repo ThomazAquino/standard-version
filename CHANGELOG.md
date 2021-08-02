@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.0](https://github.com/ThomazAquino/standard-version/compare/v0.3.0...v0.4.0) (2021-08-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop support for Node 6
+
+* drop support for Node 6 ([96c5bb9](https://github.com/ThomazAquino/standard-version/commit/96c5bb98e27e37238534d7eb0a9aa864c8ce5306))
+
 ## [0.3.0](https://github.com/ThomazAquino/standard-version/compare/v0.2.0...v0.3.0) (2021-08-02)
 
 
