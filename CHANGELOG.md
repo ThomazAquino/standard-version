@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/ThomazAquino/standard-version/compare/v0.2.0...v0.3.0) (2021-08-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* **runtime:** Refactoe 2 with parentesis
+* Refactor description
+
+### Features
+
+* feat 2 desc ([d75bd7d](https://github.com/ThomazAquino/standard-version/commit/d75bd7d46a051f23c08d3319fa8badd6e41f349b))
+* Feat desciprtion ([03617e3](https://github.com/ThomazAquino/standard-version/commit/03617e3194764501e7025ebdfa4273b92176ddb7))
+* **parentesisName:** Feature with parentesis ([3b2aa3d](https://github.com/ThomazAquino/standard-version/commit/3b2aa3d58df761ade5821bc1c39f8b9b83b9bb41))
+
+
+* Refactor description ([04d4f13](https://github.com/ThomazAquino/standard-version/commit/04d4f13942146c62f912361bcd6e05c878e2d0c0))
+* **runtime:** Refactoe 2 with parentesis ([95ae873](https://github.com/ThomazAquino/standard-version/commit/95ae873d462fb20713583b7a1c67406fb4a34d61))
+
 ## [0.2.0](https://github.com/ThomazAquino/standard-version/compare/v0.1.2...v0.2.0) (2021-08-02)
 
 
