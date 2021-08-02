@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/ThomazAquino/standard-version/compare/v0.1.1...v0.1.2) (2021-08-02)
+
+
+### Features
+
+* Some header description 2 ([6ef648b](https://github.com/ThomazAquino/standard-version/commit/6ef648bd504216c1ff81231f7b68142c708d4e82))
+
 ### [0.1.1](https://github.com/ThomazAquino/standard-version/compare/v0.1.0...v0.1.1) (2021-08-02)
 
 
