@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/ThomazAquino/standard-version/compare/v0.1.2...v0.2.0) (2021-08-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* Header description
+
+### Features
+
+* Feature one ([1fe23ee](https://github.com/ThomazAquino/standard-version/commit/1fe23ee6a4209eb6ef36458ebb29869cb722fa18))
+* **lang:** add polish language ([242924d](https://github.com/ThomazAquino/standard-version/commit/242924d9d5795e496d34f5d1b9d33442bdb4d93d))
+
+
+### Bug Fixes
+
+* correct minor typos in code ([49ca6c9](https://github.com/ThomazAquino/standard-version/commit/49ca6c909c3aed0b8df08c161553b06ccdcb7334)), closes [#133](https://github.com/ThomazAquino/standard-version/issues/133)
+
+
+* Header description ([9168d3f](https://github.com/ThomazAquino/standard-version/commit/9168d3f8e3c66420463dad779b3a6b3567c67461))
+
 ### [0.1.2](https://github.com/ThomazAquino/standard-version/compare/v0.1.1...v0.1.2) (2021-08-02)
 
 
