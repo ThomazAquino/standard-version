@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.2](https://github.com/ThomazAquino/standard-version/compare/v0.4.1...v0.4.2) (2021-08-02)
+
+
+### Features
+
+* **lang:** add polish language ([08faafe](https://github.com/ThomazAquino/standard-version/commit/08faafee6489c526f8708bc8027b39a5244ff828))
+
 ### [0.4.1](https://github.com/ThomazAquino/standard-version/compare/v0.4.0...v0.4.1) (2021-08-02)
 
 ## [0.4.0](https://github.com/ThomazAquino/standard-version/compare/v0.3.0...v0.4.0) (2021-08-02)
