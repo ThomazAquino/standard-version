@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.4](https://github.com/ThomazAquino/standard-version/compare/v0.4.3...v0.4.4) (2021-08-02)
+
+
+### Bug Fixes
+
+* correct minor typos in code ([1862c40](https://github.com/ThomazAquino/standard-version/commit/1862c40bdb1258552370044df29ef228704cd808)), closes [#1](https://github.com/ThomazAquino/standard-version/issues/1)
+
 ### [0.4.3](https://github.com/ThomazAquino/standard-version/compare/v0.4.2...v0.4.3) (2021-08-02)
 
 
